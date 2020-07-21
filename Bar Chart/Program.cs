@@ -7,7 +7,7 @@
 using System;
 using static System.Console;
 
-//test of clone repository for vscode
+
 namespace Bar_Chart
 {
     class Program
